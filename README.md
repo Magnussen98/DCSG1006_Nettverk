@@ -1,2 +1,1 @@
-# Dcsg1006_Backup_Innleveringer
-
+Backup for innlevering i faget DCSG1006 - Datakommunikasjon og Nettverk
